@@ -170,7 +170,5 @@ Please respect:
 
 ## 👨‍💻 Author
 
-Built by you 😎
-(You can put your GitHub name here)
-
+Built by Barthez
 ---
