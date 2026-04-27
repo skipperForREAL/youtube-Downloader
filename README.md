@@ -72,7 +72,11 @@ FFmpeg is required for:
 1. Download ZIP (release build)
 2. Extract it
 3. Go to:
-
+or:
+  winget install ffmpeg
+  
+or:
+  winget install "FFmpeg (Essentials Build)"
    ```
    ffmpeg/bin
    ```
